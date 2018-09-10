@@ -2,9 +2,15 @@
 
 Thank you for attending our Tech Talk!
 
-In order to make use of this notebook, you'll need to make sure that you have **_Keras_** and **_TensorFlow_** installed.  
+In order to make use of this notebook, you'll need to make sure that you **_Anaconda_** installed, as well as **_Keras_** and **_TensorFlow_**  python packages installed.  
 
-To install these packages, open up a terminal and run the following command:
+## Installing _Anaconda_
+
+To install Anaconda, go to the following link:
+
+https://www.anaconda.com/download/
+
+To install the python packages, open up a terminal and run the following command:
 
 `pip install keras`
 
